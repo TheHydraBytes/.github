@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://www.hydrabytes.it.com/Hydrabytes_logo.png" alt="HydraBytes" width="120" />
+  <img src="https://www.hydrabytes.tech/Hydrabytes_logo.png" alt="HydraBytes" width="120" />
   
   # HydraBytes
   
   **Next-gen web development, mobile apps, and AI/ML solutions — based in Pakistan 🇵🇰**
   
-  [![Website](https://img.shields.io/badge/Website-hydrabytes.it.com-7c3aed?style=for-the-badge)](https://www.hydrabytes.it.com)
+  [![Website](https://img.shields.io/badge/Website-hydrabytes.tech-7c3aed?style=for-the-badge)](https://www.hydrabytes.tech)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-HydraBytes-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/hydrabytes4/)
 </div>
 
@@ -32,6 +32,6 @@ We are a Pakistani IT startup building premium digital products across three are
 
 Have a project in mind? We'd love to hear about it.
 
-🌐 **[www.hydrabytes.it.com](https://www.hydrabytes.it.com)**
+🌐 **[www.hydrabytes.tech](https://www.hydrabytes.tech)**
 📧 hydrabytes4@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/company/hydrabytes4/)
